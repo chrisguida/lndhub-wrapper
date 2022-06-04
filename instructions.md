@@ -1,3 +1,5 @@
-# Instructions for Hello World
+# Instructions for LndHub
 
-Instructions go here.  These appear to the user in the UI on the Service page under 'Instructions.'
+Click Start.
+
+Then Rock 'n' Roll.
